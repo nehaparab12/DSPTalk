@@ -1,0 +1,7 @@
+.idea/
+build/
+virtenv/
+**/__pycache__/
+.vscode
+temp
+venv/**
